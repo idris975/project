@@ -1,0 +1,10 @@
+a.navbar-brand{
+    font-size: 25px;
+}
+nav{
+    border-bottom: 1px solid #fff;
+    opacity: 0.8;
+}
+.col-md-4{
+    float: right;
+}
